@@ -39,6 +39,7 @@
     "grunt-jsdoc": "~0.4.1",
     "grunt-replace": "~0.4.4",
     "grunt-shell": "~0.5.0",
+    "jsdoc": "^3.5.5",
     "marked": "~0.2.9"
   },
   "license": "MIT",
